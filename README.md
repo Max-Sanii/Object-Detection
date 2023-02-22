@@ -1,5 +1,5 @@
 # Object-Detection on Scooters
-The objective of the project is to train a pre-trained Yolo model to detect Electric Scooters. For this project, I used YOLOv4 model, which was already trained on the COCO dataset and can detect 80 common objects such as vehicle, bike, motorcycles, and etc. However, YOLOv4 is not trained on electric scooters, so I needed to re-train the model with scooter images so that it could be used to detect scooters.
+The objective of the project is to train a pre-trained Yolo model to detect Electric Scooters. For this project, I used YOLOv4 model, which was already trained on the COCO dataset and can detect 80 common objects such as vehicle, bike, and motorcycles; however, YOLOv4 was not trained on electric scooters, so I needed to re-train the model with scooter images so that the model could be used to detect scooters.
 
 ## Project Highlights
 The project consists of the following steps:
