@@ -4,10 +4,10 @@ The objective of the project is to train a pre-trained Yolo model to detect Elec
 ## Project Highlights
 The project consists of the following steps:
 * Prepare and pre-process the scooter images
-* Configure the Darknet framework to train the model
-* Clone a pre-trained YOLOv4 model for object detection
+* Download and configure a pre-trained YOLOv4 model
+* Configure the Darknet framework to train YOLOv4 model
 * Train YOLO with the images of electric scooter
-* Perform detection using the new trained model
+* Perform object detection using the new trained model
 * Count the number of scooters in an image
 
 ## Object-Detection Samples
