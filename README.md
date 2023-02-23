@@ -27,8 +27,9 @@ The project consists of the following steps:
 #### Brightening
 ![image_1_brightened](https://user-images.githubusercontent.com/118564295/220840243-8bde5ab3-1f81-4ce0-b312-f097e580ca14.png)
 
-#### Denoising
-![image_1_brightened_denosied](https://user-images.githubusercontent.com/118564295/220840256-9ae8326f-e0c6-4f0e-8567-39037ab1d56f.png)
+#### Denoising and Detection
+![detection_after_Denoising](https://user-images.githubusercontent.com/118564295/220841265-cfc31c64-95f9-4a22-85e6-04b445dc0ac9.jpg)
+
 
 ### Technologies
 * YOLOv4: the pre-trained weights and configuration file.
